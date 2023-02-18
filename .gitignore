@@ -1,6 +1,6 @@
 /node_modules
-/program-game/target
-/program-game/test-ledger
+/program/target
+/program/test-ledger
 /program-hello/target
 /program-hello
 /dist
